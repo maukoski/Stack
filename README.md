@@ -30,4 +30,4 @@ Once you have a Stack instance, you can perform operations like push, pop, print
 Unit tests are written using JUnit 4 and can be run as usual through your IDE or build system.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU 3.0 License - see the LICENSE file for details.
